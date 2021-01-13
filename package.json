@@ -1,0 +1,17 @@
+{
+  "name": "typescript-dicey-business",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.5",
+    "jquery": "^3.5.1",
+    "typescript": "^4.1.3"
+  }
+}

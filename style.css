@@ -1,0 +1,28 @@
+.dieContainer {
+    margin-top: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Orbitron', sans-serif;
+
+  }
+
+.square {
+    border: 2px solid white;
+    border-radius: 10%;
+    border-color: white;
+    height: 5rem;
+    width: 5rem;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4em;
+    background-color: rgb(197, 117, 117);
+    color: white;
+
+  }
+
+.container{
+    font-family: 'Orbitron', sans-serif;
+
+}
